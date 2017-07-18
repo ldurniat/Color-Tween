@@ -1,6 +1,6 @@
 # Color-Tween
 
-*Color-Tween* is simple module for color transition for [Corona SDK](https://coronalabs.com/corona-sdk/) using linear interpolation(lerp function). It uses transitions to work so you can pause/resume/stop it. Color-Tween is suposed to work with
+*Color-Tween* is simple module for color transition for [Corona SDK](https://coronalabs.com/corona-sdk/) using linear interpolation(lerp function). It uses transitions to work so you can pause/resume/stop it. Color-Tween is designed to work with
 display objects.
 
 #### Example:
